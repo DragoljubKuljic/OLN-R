@@ -1,0 +1,30 @@
+body {
+    background-color: #85F9B2;
+}
+svg {
+    width: 100px;
+    height: 100px;
+}
+td {
+    padding: 10px;
+}
+table {
+    background-color: #65E6A0;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+table, tr, td {
+    border: 10px solid #4E9970;
+}
+h1,h2 {
+    font-family: sans-serif,'Courier New', Courier, monospace;
+    margin-left: auto;
+    margin-right: auto;
+    color: #4E9970;
+}
+h3 {font-family: sans-serif,'Courier New', Courier, monospace;
+    color: #4E9970;
+    float:right;}
+
+
